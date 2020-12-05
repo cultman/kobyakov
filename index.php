@@ -1,1 +1,4 @@
-<?php require 'system/core.php'; e2 (); ?>
+<?php
+// Первый сайт
+echo '<h1> Hello world </h1>';
+?>
